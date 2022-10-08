@@ -1,3 +1,3 @@
 print("Welcome to Hatoberfest")
 print("Ready for Hacktoberfest")
-print(date)
+print("01/10/2022")
